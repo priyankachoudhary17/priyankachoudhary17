@@ -1,6 +1,6 @@
-## Hi there, I'm Priyanka Choudhary
+# Hi there, I'm Priyanka Choudhary
 
-# Data Scientist | Data Analytics & Machine Learning Specialist
+## Data Scientist | Data Analytics & Machine Learning Specialist
 
 # About Me
 I’m Priyanka Choudhary, a Data Scientist with a strong interest in data analytics and machine learning. I work with Python to analyze data, uncover insights, and build predictive models that solve real-world problems. I believe in continuous learning, logical thinking, and data-driven decision-making.
@@ -37,7 +37,7 @@ Git & GitHub – Version control & collaboration
 
 Visual Studio Code (VS Code) – Development environment
 
-## Major Projects
+# Major Projects
 **Flight Price Predicion**
 **Laptop Price Predicion**
 **Red Wine**
