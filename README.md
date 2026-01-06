@@ -38,5 +38,11 @@ Git & GitHub – Version control & collaboration
 Visual Studio Code (VS Code) – Development environment
 
 ## Major Projects
+**Flight Price Predicion**
+**Laptop Price Predicion**
+**Red Wine**
+**Titanic Dataset**
+**Mobile Price Prediction**
+
 
 
